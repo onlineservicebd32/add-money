@@ -1,0 +1,18 @@
+{
+  "status": "active",
+  "updated_at": "2026-01-10",
+
+  "bitcoin": {
+    "address": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+  },
+
+  "codes": [
+    "81646799",
+    "15973989",
+    "52992827",
+    "62892928",
+    "317189199"
+  ],
+
+  "note": "Only codes listed above are valid for successful payment"
+}
