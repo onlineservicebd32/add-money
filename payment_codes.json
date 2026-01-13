@@ -1,17 +1,17 @@
 {
   "status": "active",
-  "updated_at": "2026-01-10",
+  "updated_at": "2026-01-13",
 
   "bitcoin": {
     "address": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
   },
 
   "codes": [
-    "11111111",
-    "22222222",
-    "33333333",
-    "44444444",
-    "55555555"
+    "63839736",
+    "42864328",
+    "63963583",
+    "52993648",
+    "12739638"
   ],
 
   "note": "Only codes listed above are valid for successful payment"
